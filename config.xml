@@ -11,12 +11,12 @@
         SUNLearn Mobile official app
     </description>
 
-    <author href="http://learn.sun.ac.za" email="cmeder@sun.ac.za">
+    <author href="http://learn.sun.ac.za" email="learn@sun.ac.za">
         Stellenbosch University
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>0.3</string>
+        <string>1.0</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
